@@ -16,11 +16,11 @@ const homes = () => {
                             <div className='together'>
                             <div className={style.cardContainer}>
 
-                                <Image
+                                {/* <Image
                                     className="rounded-t-lg"
                                     src={Roose}
                                     alt=''
-                                />
+                                /> */}
                                 <figcaption></figcaption>
 
                             </div>
@@ -28,11 +28,11 @@ const homes = () => {
                             <div className='together'>
                             <div className={style.cardContainer}>
 
-                                <Image id='img'
+                                {/* <Image id='img'
                                     className="rounded-t-lg"
                                     // src={}
                                     alt=''
-                                />
+                                /> */}
                                 <figcaption></figcaption>
 
                             </div>
