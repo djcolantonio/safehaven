@@ -42,7 +42,7 @@ const hero = () => {
 
                         <div className={style.ctaContainer}>
                             <Link href="/about">
-                                <button className={style.accentedButton}><a href="/about">Read about us</a></button>
+                                <button className={style.accentedButton}>Read about us</button>
                                 {/* <button className={style.button}></button> */}</Link>
                         </div>
                     </div>
@@ -53,7 +53,7 @@ const hero = () => {
                             }
                             alt=''
                             width={500}
-        height={600}
+                            height={600}
                         />
                         <div className={style.infoContainer}>
                          
